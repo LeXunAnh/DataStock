@@ -1,0 +1,19 @@
+{
+ "data": [
+  {
+   "Symbol": "SSI",
+   "Market": "HOSE",
+   "TradingDate": "01/08/2025",
+   "Time": null,
+   "Open": "34000",
+   "High": "34800",
+   "Low": "33100",
+   "Close": "33200",
+   "Volume": "56677600",
+   "Value": "1907223435000"
+  }
+ ],
+ "message": "Success",
+ "status": "Success",
+ "totalRecord": 1
+}
